@@ -29,18 +29,7 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masa-pokemon&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=masa-pokemon&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### OSS Insight
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=8683947" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @masa-pokemon" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<!-- Made with [](https://ossinsight.io/) -->
 
 <!-- Copy-paste in your Readme.md file -->
 
@@ -51,7 +40,7 @@
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<!-- Made with [](https://ossinsight.io/) -->
 
 ### Achievement
 
